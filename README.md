@@ -1,5 +1,6 @@
 # LoanDefault-Prediction
-RandomForst Classifiers to XGBoost to GridSearchCV = Precision: 83% - Recall: 79% - F1: 81% - Accuracy:  93%
+RandomForset Classifiers to XGBoost to GridSearchCV = Precision: 83% - Recall: 79% - F1: 81% - Accuracy:  93%
+
 **Home Equity Loan Default Prediction - Final Summary**
 
 **Business Problem:**
